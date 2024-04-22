@@ -1,6 +1,6 @@
 # JourneyGeniusApp
 
-Welcome to JourneyGeniusApp! This project is a mobile application developed by Deepthi Ravipati and her Team Reena Rachamalla. The app aims to provide the users to navigate through the app easily and helps them in selecting the destination and booking the hotels easily.
+Welcome to JourneyGeniusApp! This project is a mobile application developed by Deepthi Ravipati and her Team Reena Sai Rachamalla. The app aims to provide the users to navigate through the app easily and helps them in selecting the destination and booking the hotels easily.
 
 ## Screenshots and Video
 
